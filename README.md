@@ -1,6 +1,5 @@
-### Hi there 👋
-### Mateo Tosello
-## Ingenieria en sistemas de informacion - UTN Rosario
+## Mateo Tosello
+### Ingenieria en sistemas de informacion - UTN Rosario
 
 <!--
 **MateoTosello/MateoTosello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
